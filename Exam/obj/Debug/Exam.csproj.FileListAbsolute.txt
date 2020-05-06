@@ -1,0 +1,5 @@
+/Users/blackstarjaxx/Desktop/C#/Ex/Exam/Exam/obj/Debug/Exam.csprojAssemblyReference.cache
+/Users/blackstarjaxx/Desktop/C#/Ex/Exam/Exam/bin/Debug/Exam.exe
+/Users/blackstarjaxx/Desktop/C#/Ex/Exam/Exam/bin/Debug/Exam.pdb
+/Users/blackstarjaxx/Desktop/C#/Ex/Exam/Exam/obj/Debug/Exam.exe
+/Users/blackstarjaxx/Desktop/C#/Ex/Exam/Exam/obj/Debug/Exam.pdb
